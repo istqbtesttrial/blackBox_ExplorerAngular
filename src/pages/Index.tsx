@@ -24,7 +24,7 @@ const Index = () => {
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-white to-calm-gray-100 bg-clip-text text-transparent">
-              Bienvenue sur<br />
+              Bienvenue dans<br />
               <span className="animate-float inline-block">BlackBox Explorer</span>
             </h1>
             
